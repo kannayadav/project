@@ -1,0 +1,28 @@
+{
+  "employee": [
+    {
+      "id": "1",
+      "name": "raviyadav",
+      "email": "raviyadav2@gmail.com",
+      "phone": "06309129516"
+    },
+    {
+      "id": "2",
+      "name": "nagalakshmi",
+      "email": "nagalakshmiyadav123@gmail.com",
+      "phone": "07801090876"
+    },
+    {
+      "id": "3",
+      "name": "chaithanya",
+      "email": "varalakshmiyadav092@gmail.com",
+      "phone": "07801090876"
+    },
+    {
+      "id": "4",
+      "name": "subbulu",
+      "email": "raviyadav2@gmail.com",
+      "phone": "06309129516"
+    }
+  ]
+}
